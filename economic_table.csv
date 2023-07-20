@@ -28,12 +28,14 @@ ID,Nation,Importance,Title,Name,URL
 61,United States,3,United States Core PCE Price Index MoM,core pce price index,https://www.investing.com/economic-calendar/core-pce-price-index-61
 62,United States,2,United States Core Producer Price Index (PPI) MoM,core ppi,https://www.investing.com/economic-calendar/core-ppi-62
 63,United States,3,United States Core Retail Sales MoM,core retail sales,https://www.investing.com/economic-calendar/core-retail-sales-63
-65,Canada,2,,core retail sales,https://www.investing.com/economic-calendar/core-retail-sales-65
+65,Canada,2,Canada Core Retail Sales MoM,core retail sales,https://www.investing.com/economic-calendar/core-retail-sales-65
 67,United Kingdom,3,United Kingdom Consumer Price Index (CPI) YoY,cpi,https://www.investing.com/economic-calendar/cpi-67
 68,Euro Zone,3,European Consumer Price Index (CPI) YoY,cpi,https://www.investing.com/economic-calendar/cpi-68
 69,United States,3,United States Consumer Price Index (CPI) MoM,cpi,https://www.investing.com/economic-calendar/cpi-69
 70,Canada,2,Canada Consumer Price Index (CPI) MoM,cpi,https://www.investing.com/economic-calendar/cpi-70
 71,Switzerland,2,,swiss cpi,https://www.investing.com/economic-calendar/swiss-cpi-71
+72,New Zealand,2,New Zealand Consumer Price Index (CPI) QoQ,cpi,https://www.investing.com/economic-calendar/cpi-72
+73,Australia,2,Australia Consumer Price Index (CPI) QoQ,cpi,https://www.investing.com/economic-calendar/cpi-73
 74,New Zealand,1,New Zealand Credit Card Spending YoY,credit card spending,https://www.investing.com/economic-calendar/credit-card-spending-74
 75,United States,3,United States Crude Oil Inventories,eia crude oil inventories,https://www.investing.com/economic-calendar/eia-crude-oil-inventories-75
 76,Japan,1,Japan Corporate Services Price Index (CSPI) YoY,cspi,https://www.investing.com/economic-calendar/cspi-76
@@ -50,6 +52,7 @@ ID,Nation,Importance,Title,Name,URL
 110,New Zealand,1,New Zealand Food Price Index (FPI) MoM,fpi,https://www.investing.com/economic-calendar/fpi-110
 111,France,2,France Consumer Spending MoM,french consumer spending,https://www.investing.com/economic-calendar/french-consumer-spending-111
 112,France,2,France Consumer Price Index (CPI) MoM,french cpi,https://www.investing.com/economic-calendar/french-cpi-112
+113,France,2,France Gross Domestic Product (GDP) QoQ,french gdp,https://www.investing.com/economic-calendar/french-gdp-113
 114,France,1,France Government Budget Balance,french government budget balance,https://www.investing.com/economic-calendar/french-government-budget-balance-114
 115,France,1,France Industrial Production MoM,french industrial production,https://www.investing.com/economic-calendar/french-industrial-production-115
 121,United Kingdom,3,United Kingdom Gross Domestic Product (GDP) QoQ,gdp,https://www.investing.com/economic-calendar/gdp-121
@@ -66,13 +69,14 @@ ID,Nation,Importance,Title,Name,URL
 141,Germany,2,Germany Trade Balance,german trade balance,https://www.investing.com/economic-calendar/german-trade-balance-141
 142,Germany,2,Germany Unemployment Rate,german unemployment rate,https://www.investing.com/economic-calendar/german-unemployment-rate-142
 143,Germany,1,Germany Wholesale Price Index (WPI) MoM,german wpi,https://www.investing.com/economic-calendar/german-wpi-143
-144,Germany,2,,german zew economic sentiment,https://www.investing.com/economic-calendar/german-zew-economic-sentiment-144
+144,Germany,2,Germany ZEW Economic Sentiment,german zew economic sentiment,https://www.investing.com/economic-calendar/german-zew-economic-sentiment-144
 146,Australia,2,Australia Home Loans MoM,home loans,https://www.investing.com/economic-calendar/home-loans-146
 148,Japan,1,Japan Household Confidence,household confidence,https://www.investing.com/economic-calendar/household-confidence-148
 150,Canada,2,Canada Housing Starts,housing starts,https://www.investing.com/economic-calendar/housing-starts-150
 151,United States,2,United States Housing Starts,housing starts,https://www.investing.com/economic-calendar/housing-starts-151
 152,Japan,1,Japan Housing Starts YoY,housing starts,https://www.investing.com/economic-calendar/housing-starts-152
 153,United States,2,United States Import Price Index MoM,import price index,https://www.investing.com/economic-calendar/import-price-index-153
+154,Australia,1,Australia Import Price Index QoQ,import price index,https://www.investing.com/economic-calendar/import-price-index-154
 155,United Kingdom,1,United Kingdom Index of Services,index of services,https://www.investing.com/economic-calendar/index-of-services-155
 158,United Kingdom,2,United Kingdom Industrial Production MoM,industrial production,https://www.investing.com/economic-calendar/industrial-production-158
 159,Japan,2,Japan Industrial Production MoM,industrial production,https://www.investing.com/economic-calendar/industrial-production-159
@@ -120,6 +124,7 @@ ID,Nation,Importance,Title,Name,URL
 236,United States,3,United States Philadelphia Federal Reserve Manufacturing Index,philadelphia fed manufacturing index,https://www.investing.com/economic-calendar/philadelphia-fed-manufacturing-index-236
 237,Euro Zone,1,European Producer Price Index (PPI) MoM,ppi,https://www.investing.com/economic-calendar/ppi-237
 238,United States,3,United States Producer Price Index (PPI) MoM,ppi,https://www.investing.com/economic-calendar/ppi-238
+239,Australia,2,Australia Producer Price Index (PPI) QoQ,ppi,https://www.investing.com/economic-calendar/ppi-239
 240,Switzerland,2,Switzerland Producer Price Index (PPI) MoM,swiss ppi,https://www.investing.com/economic-calendar/swiss-ppi-240
 242,United Kingdom,2,United Kingdom Producer Price Index (PPI) Input MoM,ppi input,https://www.investing.com/economic-calendar/ppi-input-242
 246,United Kingdom,1,United Kingdom Producer Price Index (PPI) Output MoM,ppi output,https://www.investing.com/economic-calendar/ppi-output-246
@@ -149,6 +154,7 @@ ID,Nation,Importance,Title,Name,URL
 289,Japan,2,Japan Adjusted Trade Balance,adjusted trade balance,https://www.investing.com/economic-calendar/adjusted-trade-balance-289
 290,New Zealand,1,New Zealand Trade Balance MoM,trade balance,https://www.investing.com/economic-calendar/trade-balance-290
 291,Australia,2,Australia Trade Balance,trade balance,https://www.investing.com/economic-calendar/trade-balance-291
+293,Australia,2,Australia Trimmed Mean Consumer Price Index (CPI) QoQ,trimmed mean cpi,https://www.investing.com/economic-calendar/trimmed-mean-cpi-293
 294,United States,3,United States Initial Jobless Claims,initial jobless claims,https://www.investing.com/economic-calendar/initial-jobless-claims-294
 297,United Kingdom,2,United Kingdom Unemployment Rate,unemployment rate,https://www.investing.com/economic-calendar/unemployment-rate-297
 298,Japan,1,Japan Unemployment Rate,unemployment rate,https://www.investing.com/economic-calendar/unemployment-rate-298
@@ -169,7 +175,9 @@ ID,Nation,Importance,Title,Name,URL
 327,United States,1,United States House Price Index (HPI) MoM,house price index,https://www.investing.com/economic-calendar/house-price-index-327
 328,Japan,2,Japan Tokyo Core Consumer Price Index (CPI) YoY,tokyo core cpi,https://www.investing.com/economic-calendar/tokyo-core-cpi-328
 329,United States,2,United States S&P/Case-Shiller HPI Composite - 20 n.s.a. YoY,s p cs hpi composite 20 n.s.a.,https://www.investing.com/economic-calendar/s-p-cs-hpi-composite-20-n.s.a.-329
+331,United States,2,United States Employment Cost Index QoQ,employment cost index,https://www.investing.com/economic-calendar/employment-cost-index-331
 332,Germany,2,Germany Unemployment Change,german unemployment change,https://www.investing.com/economic-calendar/german-unemployment-change-332
+335,Australia,2,Reserve Bank of Australia (RBA) Monetary Policy Statement,rba monetary policy statement,https://www.investing.com/economic-calendar/rba-monetary-policy-statement-335
 338,New Zealand,2,New Zealand Business NZ Purchasing Managers Index (PMI),business nz pmi,https://www.investing.com/economic-calendar/business-nz-pmi-338
 340,France,2,France Manufacturing Purchasing Managers Index (PMI),french manufacturing pmi,https://www.investing.com/economic-calendar/french-manufacturing-pmi-340
 341,France,2,France Services Purchasing Managers Index (PMI),french services pmi,https://www.investing.com/economic-calendar/french-services-pmi-341
@@ -188,15 +196,18 @@ ID,Nation,Importance,Title,Name,URL
 372,Japan,1,Japan Bank Lending YoY,bank lending,https://www.investing.com/economic-calendar/bank-lending-372
 375,United States,3,United States Gross Domestic Product (GDP) QoQ,gdp,https://www.investing.com/economic-calendar/gdp-375
 380,United States,1,United States MBA Mortgage Applications WoW,mba mortgage applications,https://www.investing.com/economic-calendar/mba-mortgage-applications-380
+384,Australia,2,National Australia Bank (NAB) Quarterly Business Confidence,nab quarterly business confidence,https://www.investing.com/economic-calendar/nab-quarterly-business-confidence-384
 385,Australia,1,Australia ANZ Job Advertisements MoM,anz job advertisements,https://www.investing.com/economic-calendar/anz-job-advertisements-385
 386,United States,1,United States Natural Gas Storage,natural gas storage,https://www.investing.com/economic-calendar/natural-gas-storage-386
 387,Australia,2,Reserve Bank of Australia (RBA) Rate Statement,rba rate statement,https://www.investing.com/economic-calendar/rba-rate-statement-387
 389,United States,1,United States Michigan Inflation Expectations,michigan inflation expectations,https://www.investing.com/economic-calendar/michigan-inflation-expectations-389
 391,Australia,2,Reserve Bank of Australia (RBA) Meeting Minutes,monetary policy meeting minutes,https://www.investing.com/economic-calendar/monetary-policy-meeting-minutes-391
+393,Belgium,1,National Bank of Belgium (NBB) Business Climate,belgium nbb business climate,https://www.investing.com/economic-calendar/belgium-nbb-business-climate-393
 395,Italy,1,Italy Monthly Unemployment Rate,italian monthly unemployment rate,https://www.investing.com/economic-calendar/italian-monthly-unemployment-rate-395
 396,Euro Zone,3,European Central Bank (ECB) Press Conference,ecb press conference,https://www.investing.com/economic-calendar/ecb-press-conference-396
 398,United States,3,U.S. Federal Reserve (Fed) Statement,fomc statement,https://www.investing.com/economic-calendar/fomc-statement-398
 401,Spain,1,Spain Consumer Price Index (CPI) MoM,spanish cpi,https://www.investing.com/economic-calendar/spanish-cpi-401
+402,Spain,2,Spain Gross Domestic Product (GDP) QoQ,spanish gdp,https://www.investing.com/economic-calendar/spanish-gdp-402
 403,Spain,1,Spain Industrial Production YoY,spanish industrial production,https://www.investing.com/economic-calendar/spanish-industrial-production-403
 404,Spain,1,Spain Producer Price Index (PPI) YoY,spanish ppi,https://www.investing.com/economic-calendar/spanish-ppi-404
 405,Spain,1,Spain Retail Sales YoY,spanish retail sales,https://www.investing.com/economic-calendar/spanish-retail-sales-405
@@ -213,6 +224,7 @@ ID,Nation,Importance,Title,Name,URL
 422,Mexico,1,Mexico Trade Balance,mexican trade balance,https://www.investing.com/economic-calendar/mexican-trade-balance-422
 424,Sweden,1,Sweden Business Confidence,swedish business confidence,https://www.investing.com/economic-calendar/swedish-business-confidence-424
 425,Sweden,2,Sweden Consumer Price Index (CPI) YoY,swedish cpi,https://www.investing.com/economic-calendar/swedish-cpi-425
+426,Sweden,2,Sweden Gross Domestic Product (GDP) QoQ,swedish gdp,https://www.investing.com/economic-calendar/swedish-gdp-426
 427,Sweden,2,Sweden Interest Rate Decision,swedish interest rate decision,https://www.investing.com/economic-calendar/swedish-interest-rate-decision-427
 430,Ukraine,1,Ukraine Consumer Price Index (CPI) MoM,ukrainian cpi,https://www.investing.com/economic-calendar/ukrainian-cpi-430
 431,Ukraine,1,Ukraine Gross Domestic Product (GDP) YoY,ukrainian gdp,https://www.investing.com/economic-calendar/ukrainian-gdp-431
@@ -220,14 +232,18 @@ ID,Nation,Importance,Title,Name,URL
 435,India,1,India Industrial Production YoY,indian industrial production,https://www.investing.com/economic-calendar/indian-industrial-production-435
 436,Argentina,1,Argentina Consumer Price Index (CPI) MoM,argentinian cpi,https://www.investing.com/economic-calendar/argentinian-cpi-436
 437,Argentina,1,Argentina Economic Activity YoY,argentinian economic activity,https://www.investing.com/economic-calendar/argentinian-economic-activity-437
+441,Argentina,1,Argentina Retail Sales YoY,argentinian retail sales,https://www.investing.com/economic-calendar/argentinian-retail-sales-441
 444,Norway,2,Norway Interest Rate Decision,norwegian interest rate decision,https://www.investing.com/economic-calendar/norwegian-interest-rate-decision-444
 445,Poland,2,Poland Consumer Price Index (CPI) YoY,polish cpi,https://www.investing.com/economic-calendar/polish-cpi-445
 452,Hungary,1,Hungary Interest Rate Decision,hungarian interest rate decision,https://www.investing.com/economic-calendar/hungarian-interest-rate-decision-452
+454,Belgium,1,Belgium Gross Domestic Product (GDP) QoQ,belgian gdp,https://www.investing.com/economic-calendar/belgian-gdp-454
 455,Czech Republic,1,Czech Republic Consumer Price Index (CPI) MoM,czech cpi,https://www.investing.com/economic-calendar/czech-cpi-455
 456,Czech Republic,1,Czech Republic Gross Domestic Product (GDP) QoQ,czech gdp,https://www.investing.com/economic-calendar/czech-gdp-456
 457,Czech Republic,1,Czech Republic Interest Rate Decision,czech interest rate decision,https://www.investing.com/economic-calendar/czech-interest-rate-decision-457
+458,Austria,1,Austria Gross Domestic Product (GDP) QoQ,austrian gdp,https://www.investing.com/economic-calendar/austrian-gdp-458
 459,China,2,China Consumer Price Index (CPI) YoY,chinese cpi,https://www.investing.com/economic-calendar/chinese-cpi-459
 460,China,2,China Fixed Asset Investment YoY,chinese fixed asset investment,https://www.investing.com/economic-calendar/chinese-fixed-asset-investment-460
+461,China,3,China Gross Domestic Product (GDP) YoY,chinese gdp,https://www.investing.com/economic-calendar/chinese-gdp-461
 462,China,3,China Industrial Production YoY,chinese industrial production,https://www.investing.com/economic-calendar/chinese-industrial-production-462
 463,China,1,China M2 Money Stock YoY,chinese m2 money stock,https://www.investing.com/economic-calendar/chinese-m2-money-stock-463
 464,China,2,China Producer Price Index (PPI) YoY,chinese ppi,https://www.investing.com/economic-calendar/chinese-ppi-464
@@ -237,6 +253,7 @@ ID,Nation,Importance,Title,Name,URL
 468,South Korea,1,South Korea Consumer Confidence,south korean consumer confidence,https://www.investing.com/economic-calendar/south-korean-consumer-confidence-468
 469,South Korea,1,South Korea Unemployment Rate,south korean unemployment rate,https://www.investing.com/economic-calendar/south-korean-unemployment-rate-469
 470,South Korea,1,South Korea Trade Balance,south korean trade balance,https://www.investing.com/economic-calendar/south-korean-trade-balance-470
+471,South Korea,1,South Korea Gross Domestic Product (GDP) QoQ,south korean gdp,https://www.investing.com/economic-calendar/south-korean-gdp-471
 472,South Korea,1,South Korea Industrial Production YoY,south korean industrial production,https://www.investing.com/economic-calendar/south-korean-industrial-production-472
 473,South Korea,1,South Korea Interest Rate Decision,south korean interest rate decision,https://www.investing.com/economic-calendar/south-korean-interest-rate-decision-473
 474,South Korea,1,South Korea Retail Sales MoM,south korean retail sales,https://www.investing.com/economic-calendar/south-korean-retail-sales-474
@@ -267,8 +284,10 @@ ID,Nation,Importance,Title,Name,URL
 520,Germany,2,Germany Current Assessment,german current assessment,https://www.investing.com/economic-calendar/german-current-assessment-520
 521,Germany,2,Germany Business Expectations,german business expectations,https://www.investing.com/economic-calendar/german-business-expectations-521
 522,United States,1,United States Continuing Jobless Claims,continuing jobless claims,https://www.investing.com/economic-calendar/continuing-jobless-claims-522
+523,United States,1,United States Chicago Federal Reserve National Activity,chicago fed national activity,https://www.investing.com/economic-calendar/chicago-fed-national-activity-523
 524,Vietnam,1,Vietnam Trade Balance,vietnamese trade balance,https://www.investing.com/economic-calendar/vietnamese-trade-balance-524
 525,Italy,1,Italy Consumer Confidence,italian consumer confidence,https://www.investing.com/economic-calendar/italian-consumer-confidence-525
+526,Spain,1,Spain Unemployment Rate,spanish unemployment rate,https://www.investing.com/economic-calendar/spanish-unemployment-rate-526
 527,France,1,France Producer Price Index (PPI) MoM,french ppi,https://www.investing.com/economic-calendar/french-ppi-527
 531,Italy,1,Italy Producer Price Index (PPI) MoM,italian ppi,https://www.investing.com/economic-calendar/italian-ppi-531
 532,Italy,1,Italy Business Confidence,italian business confidence,https://www.investing.com/economic-calendar/italian-business-confidence-532
@@ -276,6 +295,7 @@ ID,Nation,Importance,Title,Name,URL
 534,Euro Zone,1,European Business and Consumer Survey,business and consumer survey,https://www.investing.com/economic-calendar/business-and-consumer-survey-534
 536,Mexico,1,Mexico Economic Activity YoY,mexican economic activity,https://www.investing.com/economic-calendar/mexican-economic-activity-536
 537,United States,1,United States NFIB Small Business Optimism,nfib small business optimism,https://www.investing.com/economic-calendar/nfib-small-business-optimism-537
+540,Taiwan,1,Taiwan Gross Domestic Product (GDP) YoY,taiwanese gdp,https://www.investing.com/economic-calendar/taiwanese-gdp-540
 541,Taiwan,1,Taiwan Industrial Production YoY,taiwanese industrial production,https://www.investing.com/economic-calendar/taiwanese-industrial-production-541
 549,Russia,1,Russian Federation Business Confidence,russian business confidence,https://www.investing.com/economic-calendar/russian-business-confidence-549
 550,Russia,1,Russian Federation Trade Balance,russian trade balance,https://www.investing.com/economic-calendar/russian-trade-balance-550
@@ -321,6 +341,7 @@ ID,Nation,Importance,Title,Name,URL
 610,Netherlands,1,Netherlands Trade Balance,dutch trade balance,https://www.investing.com/economic-calendar/dutch-trade-balance-610
 611,Türkiye,2,Turkey Consumer Price Index (CPI) MoM,turkish cpi,https://www.investing.com/economic-calendar/turkish-cpi-611
 612,Türkiye,1,Turkey Producer Price Index (PPI) MoM,turkish ppi,https://www.investing.com/economic-calendar/turkish-ppi-612
+613,Türkiye,1,Turkey Trade Balance,turkish trade deficit,https://www.investing.com/economic-calendar/turkish-trade-deficit-613
 615,Türkiye,1,Turkey Consumer Confidence,turkish consumer confidence,https://www.investing.com/economic-calendar/turkish-consumer-confidence-615
 616,Türkiye,1,Turkey Manufacturing Confidence,turkish manufacturing confidence,https://www.investing.com/economic-calendar/turkish-manufacturing-confidence-616
 618,Türkiye,1,Turkey Industrial Production YoY,turkish industrial production,https://www.investing.com/economic-calendar/turkish-industrial-production-618
@@ -350,6 +371,7 @@ ID,Nation,Importance,Title,Name,URL
 646,Denmark,1,Denmark Trade Balance,danish trade balance,https://www.investing.com/economic-calendar/danish-trade-balance-646
 647,Denmark,1,Denmark Unemployment Rate,danish unemployment rate,https://www.investing.com/economic-calendar/danish-unemployment-rate-647
 648,South Korea,1,South Korea Producer Price Index (PPI) MoM,south korean ppi,https://www.investing.com/economic-calendar/south-korean-ppi-648
+649,South Korea,1,South Korea Service Sector Output MoM,south korean service sector output,https://www.investing.com/economic-calendar/south-korean-service-sector-output-649
 650,Poland,2,Poland Unemployment Rate,polish unemployment rate,https://www.investing.com/economic-calendar/polish-unemployment-rate-650
 651,Poland,1,Poland Industrial Output YoY,polish industrial output,https://www.investing.com/economic-calendar/polish-industrial-output-651
 652,Poland,1,Poland Producer Price Index (PPI) YoY,polish ppi,https://www.investing.com/economic-calendar/polish-ppi-652
@@ -358,12 +380,15 @@ ID,Nation,Importance,Title,Name,URL
 656,United States,2,United States API Weekly Crude Oil Stock,api weekly crude stock,https://www.investing.com/economic-calendar/api-weekly-crude-stock-656
 658,United States,1,United States Dallas Federal Reserve Mfg Business Index,dallas fed mfg business index,https://www.investing.com/economic-calendar/dallas-fed-mfg-business-index-658
 660,United States,1,United States CB Employment Trends Index,cb employment trends index,https://www.investing.com/economic-calendar/cb-employment-trends-index-660
+662,United States,1,United States KC Federal Reserve Composite Index,kc fed composite index,https://www.investing.com/economic-calendar/kc-fed-composite-index-662
 663,United States,1,United States Overall Net Capital Flow,overall net capital flow,https://www.investing.com/economic-calendar/overall-net-capital-flow-663
 664,United Kingdom,1,United Kingdom Mortgage Lending,mortgage lending,https://www.investing.com/economic-calendar/mortgage-lending-664
 666,United Kingdom,1,Bank of England (BoE) Consumer Credit,boe consumer credit,https://www.investing.com/economic-calendar/boe-consumer-credit-666
 667,Spain,2,Spain Manufacturing Purchasing Managers Index (PMI),spanish manufacturing pmi,https://www.investing.com/economic-calendar/spanish-manufacturing-pmi-667
 668,Spain,2,Spain Services Purchasing Managers Index (PMI),spanish services pmi,https://www.investing.com/economic-calendar/spanish-services-pmi-668
+669,Canada,1,Canada Budget Balance,budget balance,https://www.investing.com/economic-calendar/budget-balance-669
 672,France,1,French S&P Global Composite Purchasing Managers Index (PMI),french s p global comp. pmi,https://www.investing.com/economic-calendar/french-s-p-global-comp.-pmi-672
+673,Hungary,2,Hungary Quarterly Unemployment Rate,hungarian quarterly unemployment rate,https://www.investing.com/economic-calendar/hungarian-quarterly-unemployment-rate-673
 674,Hungary,1,Hungary Manufacturing Purchasing Managers Index (PMI),hungarian pmi,https://www.investing.com/economic-calendar/hungarian-pmi-674
 675,Hungary,1,Hungary Industrial Output YoY,hungarian industrial output,https://www.investing.com/economic-calendar/hungarian-industrial-output-675
 677,Argentina,1,Argentina Trade Balance,argentinian trade balance,https://www.investing.com/economic-calendar/argentinian-trade-balance-677
@@ -383,6 +408,8 @@ ID,Nation,Importance,Title,Name,URL
 703,Spain,1,Spain 12-Month Bond Auction,spanish 12 month letras auction,https://www.investing.com/economic-calendar/spanish-12-month-letras-auction-703
 714,United Kingdom,1,United Kingdom 5-Year Treasury Bond Auction,5 year treasury gilt auction,https://www.investing.com/economic-calendar/5-year-treasury-gilt-auction-714
 719,United Kingdom,1,United Kingdom 10-Year Treasury Bond Auction,10 year treasury gilt auction,https://www.investing.com/economic-calendar/10-year-treasury-gilt-auction-719
+720,United Kingdom,1,United Kingdom 15-Year Treasury Bond Auction,15 year treasury gilt auction,https://www.investing.com/economic-calendar/15-year-treasury-gilt-auction-720
+722,United Kingdom,1,United Kingdom 30-Year Treasury Bond Auction,30 year treasury gilt auction,https://www.investing.com/economic-calendar/30-year-treasury-gilt-auction-722
 723,Japan,1,Japan 2-Year Bond Auction,2 year jgb auction,https://www.investing.com/economic-calendar/2-year-jgb-auction-723
 724,Japan,1,Japan 5-Year Bond Auction,5 year jgb auction,https://www.investing.com/economic-calendar/5-year-jgb-auction-724
 725,Japan,2,Japan 10-Year Bond Auction,10 year jgb auction,https://www.investing.com/economic-calendar/10-year-jgb-auction-725
@@ -403,6 +430,7 @@ ID,Nation,Importance,Title,Name,URL
 742,Canada,1,Canada Industrial Product Price Index (IPPI) YoY,ippi,https://www.investing.com/economic-calendar/ippi-742
 743,China,2,China Consumer Price Index (CPI) MoM,chinese cpi,https://www.investing.com/economic-calendar/chinese-cpi-743
 744,South Korea,1,South Korea Consumer Price Index (CPI) MoM,south korean cpi,https://www.investing.com/economic-calendar/south-korean-cpi-744
+745,South Korea,1,South Korea Gross Domestic Product (GDP) YoY,south korean gdp,https://www.investing.com/economic-calendar/south-korean-gdp-745
 746,South Korea,1,South Korea Industrial Production MoM,south korean industrial production,https://www.investing.com/economic-calendar/south-korean-industrial-production-746
 747,South Korea,1,South Korea Producer Price Index (PPI) YoY,south korean ppi,https://www.investing.com/economic-calendar/south-korean-ppi-747
 748,Italy,1,Italy Consumer Price Index (CPI) YoY,italian cpi,https://www.investing.com/economic-calendar/italian-cpi-748
@@ -436,6 +464,7 @@ ID,Nation,Importance,Title,Name,URL
 787,South Korea,1,South Korea M2 Money supply,south korean m2 money supply,https://www.investing.com/economic-calendar/south-korean-m2-money-supply-787
 788,South Korea,1,South Korea Manufacturing BSI Index,south korean manufacturing bsi index,https://www.investing.com/economic-calendar/south-korean-manufacturing-bsi-index-788
 790,Singapore,1,Singapore Bank Lending,singaporean bank landing,https://www.investing.com/economic-calendar/singaporean-bank-landing-790
+791,Singapore,1,Singapore Business Expectations,singaporean business expectations,https://www.investing.com/economic-calendar/singaporean-business-expectations-791
 792,Singapore,1,Singapore Manufacturing Purchasing Managers Index (PMI),singaporean pmi,https://www.investing.com/economic-calendar/singaporean-pmi-792
 793,Slovakia,1,Slovakia Consumer Price Index (CPI) MoM,slovak cpi,https://www.investing.com/economic-calendar/slovak-cpi-793
 795,Slovakia,1,Slovakia Industrial Production YoY,slovak industrial production,https://www.investing.com/economic-calendar/slovak-industrial-production-795
@@ -483,6 +512,7 @@ ID,Nation,Importance,Title,Name,URL
 863,Portugal,1,Portugal Consumer Price Index (CPI) YoY,portuguese cpi,https://www.investing.com/economic-calendar/portuguese-cpi-863
 864,Portugal,1,Portugal Current Account,portuguese current account,https://www.investing.com/economic-calendar/portuguese-current-account-864
 867,China,2,China Imports YoY,chinese imports,https://www.investing.com/economic-calendar/chinese-imports-867
+868,China,2,China Gross Domestic Product (GDP) QoQ,chinese gdp,https://www.investing.com/economic-calendar/chinese-gdp-868
 869,Türkiye,2,Turkey Budget Balance,turkish budget balance,https://www.investing.com/economic-calendar/turkish-budget-balance-869
 870,Türkiye,2,Turkey Capacity Utilization,turkish capacity utilization,https://www.investing.com/economic-calendar/turkish-capacity-utilization-870
 871,Türkiye,2,Turkey Consumer Price Index (CPI) YoY,turkish cpi,https://www.investing.com/economic-calendar/turkish-cpi-871
@@ -490,6 +520,7 @@ ID,Nation,Importance,Title,Name,URL
 873,Poland,2,Poland Consumer Price Index (CPI) MoM,polish cpi,https://www.investing.com/economic-calendar/polish-cpi-873
 875,Poland,1,Poland Corp. Sector Wages YoY,polish corp. sector wages,https://www.investing.com/economic-calendar/polish-corp.-sector-wages-875
 876,Poland,1,Poland Current Account (EUR),polish current account (eur),https://www.investing.com/economic-calendar/polish-current-account-(eur)-876
+877,Poland,1,M3 Money Supply YoY,polish m3 money supply,https://www.investing.com/economic-calendar/polish-m3-money-supply-877
 880,Israel,1,Israel Consumer Price Index (CPI) YoY,israeli cpi,https://www.investing.com/economic-calendar/israeli-cpi-880
 881,Israel,1,Israel Exports (USD),israeli exports (usd),https://www.investing.com/economic-calendar/israeli-exports-(usd)-881
 882,Israel,1,Israel Imports (USD),israeli imports (usd),https://www.investing.com/economic-calendar/israeli-imports-(usd)-882
@@ -504,6 +535,7 @@ ID,Nation,Importance,Title,Name,URL
 896,United States,2,United States New Home Sales MoM,new home sales,https://www.investing.com/economic-calendar/new-home-sales-896
 897,United States,1,United States House Price Index (HPI) YoY,house price index,https://www.investing.com/economic-calendar/house-price-index-897
 898,United States,2,United States Housing Starts MoM,housing starts,https://www.investing.com/economic-calendar/housing-starts-898
+899,United States,1,United States KC Federal Reserve Manufacturing Index,kc fed manufacturing index,https://www.investing.com/economic-calendar/kc-fed-manufacturing-index-899
 900,United States,2,United States Michigan Consumer Expectations,michigan consumer expectations,https://www.investing.com/economic-calendar/michigan-consumer-expectations-900
 901,United States,1,United States Michigan Current Conditions,michigan current conditions,https://www.investing.com/economic-calendar/michigan-current-conditions-901
 902,United States,1,United States Pending Home Sales Index,pending home sales index,https://www.investing.com/economic-calendar/pending-home-sales-index-902
@@ -538,6 +570,7 @@ ID,Nation,Importance,Title,Name,URL
 960,Switzerland,1,Switzerland Producer Price Index (PPI) YoY,swiss ppi,https://www.investing.com/economic-calendar/swiss-ppi-960
 961,Spain,2,Spain Consumer Price Index (CPI) YoY,spanish cpi,https://www.investing.com/economic-calendar/spanish-cpi-961
 962,Spain,1,Spain Current Account,spanish current account,https://www.investing.com/economic-calendar/spanish-current-account-962
+965,Spain,1,Spain Gross Domestic Product (GDP) YoY,spanish gdp,https://www.investing.com/economic-calendar/spanish-gdp-965
 967,Spain,1,Spain Harmonised Index of Consumer Prices (HICP) MoM,spanish hicp,https://www.investing.com/economic-calendar/spanish-hicp-967
 968,Spain,2,Spain Harmonised Index of Consumer Prices (HICP) YoY,spanish hicp,https://www.investing.com/economic-calendar/spanish-hicp-968
 969,Russia,1,Russian Federation Central Bank Reserves (USD),russian central bank reserves (usd),https://www.investing.com/economic-calendar/russian-central-bank-reserves-(usd)-969
@@ -571,7 +604,12 @@ ID,Nation,Importance,Title,Name,URL
 1006,Japan,1,Japan Tankan Small Manufacturers Diffusion Index,tankan small manufacturers diffusion index,https://www.investing.com/economic-calendar/tankan-small-manufacturers-diffusion-index-1006
 1007,Japan,1,Japan Tankan Small Non-Manufacturers Diffusion Index,tankan small non manufacturers diffusion index,https://www.investing.com/economic-calendar/tankan-small-non-manufacturers-diffusion-index-1007
 1009,Australia,1,National Australia Bank (NAB) Business Survey,nab business survey,https://www.investing.com/economic-calendar/nab-business-survey-1009
+1010,Australia,1,Australia Consumer Price Index (CPI) Index Number,cpi index number,https://www.investing.com/economic-calendar/cpi-index-number-1010
 1011,Australia,2,Australia Consumer Price Index (CPI) YoY,cpi,https://www.investing.com/economic-calendar/cpi-1011
+1012,Australia,1,Australia Export Price Index QoQ,export price index,https://www.investing.com/economic-calendar/export-price-index-1012
+1016,Australia,1,Australia Weighted Mean Consumer Price Index (CPI) QoQ,weighted mean cpi,https://www.investing.com/economic-calendar/weighted-mean-cpi-1016
+1017,Australia,1,Australia Trimmed Mean Consumer Price Index (CPI) YoY,trimmed mean cpi,https://www.investing.com/economic-calendar/trimmed-mean-cpi-1017
+1018,Australia,1,Australia Weighted Mean Consumer Price Index (CPI) YoY,weighted mean cpi,https://www.investing.com/economic-calendar/weighted-mean-cpi-1018
 1020,Canada,2,Canada Core Consumer Price Index (CPI) YoY,core cpi,https://www.investing.com/economic-calendar/core-cpi-1020
 1028,Canada,1,Foreign Securities Purchases by Canadians,foreign securities purchases by canadians,https://www.investing.com/economic-calendar/foreign-securities-purchases-by-canadians-1028
 1029,Canada,1,Canada Manufacturing Purchasing Managers Index (PMI),manufacturing pmi,https://www.investing.com/economic-calendar/manufacturing-pmi-1029
@@ -591,9 +629,12 @@ ID,Nation,Importance,Title,Name,URL
 1059,New Zealand,1,New Zealand Electronic Card Retail Sales YoY,electronic card retail sales,https://www.investing.com/economic-calendar/electronic-card-retail-sales-1059
 1060,China,2,China New Loans,chinese new loans,https://www.investing.com/economic-calendar/chinese-new-loans-1060
 1061,United States,3,U.S. Federal Reserve (Fed) Economic Projections,fomc economic projections,https://www.investing.com/economic-calendar/fomc-economic-projections-1061
+1062,United States,3,United States Services Purchasing Managers Index (PMI),services pmi,https://www.investing.com/economic-calendar/services-pmi-1062
+1063,New Zealand,2,New Zealand Consumer Price Index (CPI) YoY,cpi,https://www.investing.com/economic-calendar/cpi-1063
 1064,New Zealand,1,New Zealand Trade Balance YoY,trade balance,https://www.investing.com/economic-calendar/trade-balance-1064
 1065,New Zealand,1,New Zealand Exports,exports,https://www.investing.com/economic-calendar/exports-1065
 1066,New Zealand,1,New Zealand Imports,imports,https://www.investing.com/economic-calendar/imports-1066
+1073,Canada,1,Canada Budget Balance YoY,budget balance,https://www.investing.com/economic-calendar/budget-balance-1073
 1074,Indonesia,2,Indonesia Inflation MoM,indonesian inflation,https://www.investing.com/economic-calendar/indonesian-inflation-1074
 1075,Philippines,1,Philippines Consumer Price Index (CPI) YoY,philippines cpi,https://www.investing.com/economic-calendar/philippines-cpi-1075
 1078,Singapore,1,Singapore Industrial Production MoM,singaporean industrial production,https://www.investing.com/economic-calendar/singaporean-industrial-production-1078
@@ -611,6 +652,7 @@ ID,Nation,Importance,Title,Name,URL
 1098,Indonesia,1,Indonesia M2 Money Supply YoY,indonesia m2 money supply,https://www.investing.com/economic-calendar/indonesia-m2-money-supply-1098
 1099,Indonesia,1,Indonesia Motorbike Sales YoY,indonesia motorbike sales,https://www.investing.com/economic-calendar/indonesia-motorbike-sales-1099
 1100,Indonesia,1,Indonesia Car Sales YoY,indonesia car sales,https://www.investing.com/economic-calendar/indonesia-car-sales-1100
+1101,Malaysia,2,Malaysia Consumer Price Index (CPI) YoY,malaysian cpi,https://www.investing.com/economic-calendar/malaysian-cpi-1101
 1103,Malaysia,1,Malaysia Exports YoY,malaysian exports,https://www.investing.com/economic-calendar/malaysian-exports-1103
 1104,Malaysia,1,Malaysia Imports YoY,malaysian imports,https://www.investing.com/economic-calendar/malaysian-imports-1104
 1105,Malaysia,1,Malaysia Money Supply YoY,malaysian money supply,https://www.investing.com/economic-calendar/malaysian-money-supply-1105
@@ -618,6 +660,7 @@ ID,Nation,Importance,Title,Name,URL
 1108,Philippines,1,Philippines Core Consumer Price Index (CPI) YoY,philippines core cpi,https://www.investing.com/economic-calendar/philippines-core-cpi-1108
 1109,Philippines,1,Philippines Exports YoY,philippines exports,https://www.investing.com/economic-calendar/philippines-exports-1109
 1110,Philippines,1,Philippines Imports YoY,philippines imports,https://www.investing.com/economic-calendar/philippines-imports-1110
+1112,Singapore,2,Singapore Consumer Price Index (CPI) YoY,singaporean cpi,https://www.investing.com/economic-calendar/singaporean-cpi-1112
 1114,South Korea,1,South Korea Export Price Index YoY,south korean exports,https://www.investing.com/economic-calendar/south-korean-exports-1114
 1115,South Korea,1,South Korea Import Price Index YoY,south korean import price index,https://www.investing.com/economic-calendar/south-korean-import-price-index-1115
 1117,Taiwan,2,Taiwan Interest Rate,taiwan interest rate decision,https://www.investing.com/economic-calendar/taiwan-interest-rate-decision-1117
@@ -639,6 +682,7 @@ ID,Nation,Importance,Title,Name,URL
 1152,Argentina,1,Argentina Consumer Price Index (CPI) YoY,argentinian cpi,https://www.investing.com/economic-calendar/argentinian-cpi-1152
 1153,Canada,2,Bank of Canada (BoC) Business Outlook Survey,boc business outlook survey,https://www.investing.com/economic-calendar/boc-business-outlook-survey-1153
 1154,Finland,1,Finland Gross Domestic Product (GDP) YoY,finnish gdp,https://www.investing.com/economic-calendar/finnish-gdp-1154
+1164,Australia,2,Australia Producer Price Index (PPI) YoY,ppi,https://www.investing.com/economic-calendar/ppi-1164
 1165,Brazil,2,Brazil Consumer Price Index (CPI) MoM,brazilian cpi,https://www.investing.com/economic-calendar/brazilian-cpi-1165
 1166,Czech Republic,1,Czech Republic Consumer Price Index (CPI) YoY,czech cpi,https://www.investing.com/economic-calendar/czech-cpi-1166
 1168,Estonia,1,Estonia Industrial Production YoY,estonian industrial production,https://www.investing.com/economic-calendar/estonian-industrial-production-1168
@@ -655,6 +699,7 @@ ID,Nation,Importance,Title,Name,URL
 1182,South Africa,1,South Africa Consumer Price Index (CPI) YoY,south african cpi,https://www.investing.com/economic-calendar/south-african-cpi-1182
 1184,South Africa,1,South Africa Producer Price Index (PPI) YoY,south african ppi,https://www.investing.com/economic-calendar/south-african-ppi-1184
 1185,Sweden,2,Sweden Consumer Price Index (CPI) MoM,swedish cpi,https://www.investing.com/economic-calendar/swedish-cpi-1185
+1186,Sweden,2,Sweden Gross Domestic Product (GDP) YoY,swedish gdp,https://www.investing.com/economic-calendar/swedish-gdp-1186
 1188,Sweden,1,Sweden Producer Price Index (PPI) YoY,swedish ppi,https://www.investing.com/economic-calendar/swedish-ppi-1188
 1189,Sweden,1,Sweden Retail Sales YoY,swedish retail sales,https://www.investing.com/economic-calendar/swedish-retail-sales-1189
 1190,Austria,1,Austria Producer Price Index (PPI) YoY,austrian ppi,https://www.investing.com/economic-calendar/austrian-ppi-1190
@@ -691,6 +736,7 @@ ID,Nation,Importance,Title,Name,URL
 1229,Czech Republic,1,Czech Republic Budget Balance,czech budget balance,https://www.investing.com/economic-calendar/czech-budget-balance-1229
 1233,Philippines,1,Philippines Budget Balance,philippines budget balance,https://www.investing.com/economic-calendar/philippines-budget-balance-1233
 1236,Argentina,1,Argentina Current Account (USD),argentinian current account (usd),https://www.investing.com/economic-calendar/argentinian-current-account-(usd)-1236
+1237,Egypt,1,Egypt Current Account (USD),egypt current account (usd),https://www.investing.com/economic-calendar/egypt-current-account-(usd)-1237
 1239,Thailand,1,Thailand Current account (USD),thai current account (usd),https://www.investing.com/economic-calendar/thai-current-account-(usd)-1239
 1240,Türkiye,1,Turkey Current Account (USD),turkish current account (usd),https://www.investing.com/economic-calendar/turkish-current-account-(usd)-1240
 1241,Ukraine,1,Ukraine Current Account (USD),ukraine current account (usd),https://www.investing.com/economic-calendar/ukraine-current-account-(usd)-1241
@@ -705,6 +751,7 @@ ID,Nation,Importance,Title,Name,URL
 1267,Botswana,1,Botswana Interest Rate Decision,botswana interest rate decision,https://www.investing.com/economic-calendar/botswana-interest-rate-decision-1267
 1271,Mauritius,1,Mauritius Interest Rate Decision,mauritius interest rate decision,https://www.investing.com/economic-calendar/mauritius-interest-rate-decision-1271
 1272,Namibia,1,Namibia Interest Rate Decision,namibia interest rate decision,https://www.investing.com/economic-calendar/namibia-interest-rate-decision-1272
+1273,Nigeria,1,Nigeria Interest Rate Decision,nigeria interest rate decision,https://www.investing.com/economic-calendar/nigeria-interest-rate-decision-1273
 1274,Romania,1,Romania Interest Rate Decision,romania interest rate decision,https://www.investing.com/economic-calendar/romania-interest-rate-decision-1274
 1275,Uganda,1,Uganda Interest Rate Decision,uganda interest rate decision,https://www.investing.com/economic-calendar/uganda-interest-rate-decision-1275
 1277,Czech Republic,1,Czech Republic Producer Price Index (PPI) MoM,czech ppi,https://www.investing.com/economic-calendar/czech-ppi-1277
@@ -752,6 +799,9 @@ ID,Nation,Importance,Title,Name,URL
 1344,Türkiye,1,Turkey Central Government Debt Stock,turkish central government debt stock,https://www.investing.com/economic-calendar/turkish-central-government-debt-stock-1344
 1350,New Zealand,1,New Zealand Current Account % of Gross Domestic Product (GDP),current account balance gdp,https://www.investing.com/economic-calendar/current-account-balance-gdp-1350
 1353,Hungary,1,Hungary Current Account (EUR) QoQ,hungarian current account balance (eur),https://www.investing.com/economic-calendar/hungarian-current-account-balance-(eur)-1353
+1354,Thailand,1,Thailand Custom-Based Export Data,thai custom based export data,https://www.investing.com/economic-calendar/thai-custom-based-export-data-1354
+1355,Thailand,1,Thailand Custom-Based Import Data,thai custom based import data,https://www.investing.com/economic-calendar/thai-custom-based-import-data-1355
+1356,Thailand,1,Thailand Custom-Based Trade Data (USD),thai custom based trade data (usd),https://www.investing.com/economic-calendar/thai-custom-based-trade-data-(usd)-1356
 1357,Estonia,1,Estonia Current Account % of Gross Domestic Product (GDP),estonian current account,https://www.investing.com/economic-calendar/estonian-current-account-1357
 1359,India,1,India Federal Fiscal Deficit,indian federal fiscal deficit,https://www.investing.com/economic-calendar/indian-federal-fiscal-deficit-1359
 1361,Finland,1,Finland Current Account,finnish current account,https://www.investing.com/economic-calendar/finnish-current-account-1361
@@ -780,6 +830,7 @@ ID,Nation,Importance,Title,Name,URL
 1410,South Africa,1,South Africa Business Confidence,south african business confidence,https://www.investing.com/economic-calendar/south-african-business-confidence-1410
 1412,Finland,1,Finland Consumer Confidence,finnish consumer confidence,https://www.investing.com/economic-calendar/finnish-consumer-confidence-1412
 1413,Finland,1,Finland Industrial Confidence,finnish industry confidence,https://www.investing.com/economic-calendar/finnish-industry-confidence-1413
+1414,Norway,1,Norway Industrial Confidence,norwegian industrial confidence,https://www.investing.com/economic-calendar/norwegian-industrial-confidence-1414
 1416,Sweden,1,Sweden Manufacturing Confidence,swedish manufacturing confidence,https://www.investing.com/economic-calendar/swedish-manufacturing-confidence-1416
 1417,New Zealand,1,New Zealand NZIER QSBO Capacity Utilization,nzier qsbo capacity utilization,https://www.investing.com/economic-calendar/nzier-qsbo-capacity-utilization-1417
 1418,Euro Zone,1,European Services Sentiment,european services sentiment,https://www.investing.com/economic-calendar/european-services-sentiment-1418
@@ -821,11 +872,13 @@ ID,Nation,Importance,Title,Name,URL
 1481,Ireland,1,Ireland Manufacturing Purchasing Managers Index (PMI),irish manufacturing pmi,https://www.investing.com/economic-calendar/irish-manufacturing-pmi-1481
 1482,Ireland,1,Ireland Services Purchasing Managers Index (PMI),irish services pmi,https://www.investing.com/economic-calendar/irish-services-pmi-1482
 1483,United States,1,United States ISM Manufacturing New Orders Index,ism manufacturing new orders index,https://www.investing.com/economic-calendar/ism-manufacturing-new-orders-index-1483
+1486,Latvia,1,Latvia Gross Domestic Product (GDP) YoY,latvia gdp,https://www.investing.com/economic-calendar/latvia-gdp-1486
 1487,Latvia,1,Latvia Industrial Production YoY,latvia industrial production,https://www.investing.com/economic-calendar/latvia-industrial-production-1487
 1488,Latvia,1,Latvia Industrial Production MoM,latvia industrial production,https://www.investing.com/economic-calendar/latvia-industrial-production-1488
 1489,Latvia,1,Latvia Retail Sales MoM,latvia retail sales,https://www.investing.com/economic-calendar/latvia-retail-sales-1489
 1490,Latvia,1,Latvia Retail Sales YoY,latvia retail sales,https://www.investing.com/economic-calendar/latvia-retail-sales-1490
 1491,Euro Zone,2,European S&P Global Composite Purchasing Managers Index (PMI),s p global composite pmi,https://www.investing.com/economic-calendar/s-p-global-composite-pmi-1491
+1492,United States,2,United States S&P Global Composite PMI,s p global composite pmi,https://www.investing.com/economic-calendar/s-p-global-composite-pmi-1492
 1494,United States,1,United States MBA Purchase Index,mba purchase index,https://www.investing.com/economic-calendar/mba-purchase-index-1494
 1496,South Africa,1,South Africa Mining Production,south african mining production,https://www.investing.com/economic-calendar/south-african-mining-production-1496
 1497,New Zealand,1,National Bank of New Zealand (NBNZ) Own Activity,nbnz own activity,https://www.investing.com/economic-calendar/nbnz-own-activity-1497
@@ -847,7 +900,9 @@ ID,Nation,Importance,Title,Name,URL
 1519,United States,1,United States Texas Services Sector Outlook,texas services sector outlook,https://www.investing.com/economic-calendar/texas-services-sector-outlook-1519
 1522,Austria,1,Austria Unemployment Change,austrian unemployment,https://www.investing.com/economic-calendar/austrian-unemployment-1522
 1523,Brazil,2,Brazil CAGED Net Payroll Jobs,brazilian caged net payroll jobs,https://www.investing.com/economic-calendar/brazilian-caged-net-payroll-jobs-1523
+1524,United States,1,United States Employment Benefits QoQ,employment benefits,https://www.investing.com/economic-calendar/employment-benefits-1524
 1525,Poland,1,Poland Employment Growth YoY,polish employment growth,https://www.investing.com/economic-calendar/polish-employment-growth-1525
+1526,United States,1,United States Employment Wages QoQ,employment wages,https://www.investing.com/economic-calendar/employment-wages-1526
 1527,Germany,1,Germany Unemployment,german unemployment total,https://www.investing.com/economic-calendar/german-unemployment-total-1527
 1528,Germany,1,Germany Unemployment n.s.a.,german unemployment total n.s.a.,https://www.investing.com/economic-calendar/german-unemployment-total-n.s.a.-1528
 1529,Greece,1,Greece Quarterly Unemployment Rate,greek quarterly unemployment rate,https://www.investing.com/economic-calendar/greek-quarterly-unemployment-rate-1529
@@ -855,6 +910,8 @@ ID,Nation,Importance,Title,Name,URL
 1537,Norway,1,Norway Unemployment Change,norwegian registered unemployment,https://www.investing.com/economic-calendar/norwegian-registered-unemployment-1537
 1538,Colombia,1,Colombia Urban Unemployment Rate,colombian urban unemployment rate,https://www.investing.com/economic-calendar/colombian-urban-unemployment-rate-1538
 1539,Latvia,1,Latvia Consumer Price Index (CPI) MoM,latvia cpi,https://www.investing.com/economic-calendar/latvia-cpi-1539
+1540,Mexico,1,Mexico 1st Half-Month Core Consumer Price Index (CPI),mexican 1st half month core cpi,https://www.investing.com/economic-calendar/mexican-1st-half-month-core-cpi-1540
+1541,Mexico,1,Mexico 1st Half-Month Consumer Price Index (CPI),mexican 1st half month cpi,https://www.investing.com/economic-calendar/mexican-1st-half-month-cpi-1541
 1542,Austria,1,Austria Harmonised Index of Consumer Prices (HICP) MoM,austrian hicp,https://www.investing.com/economic-calendar/austrian-hicp-1542
 1543,Austria,1,Austria Harmonised Index of Consumer Prices (HICP) YoY,austrian hicp,https://www.investing.com/economic-calendar/austrian-hicp-1543
 1544,Austria,1,Austria Manufacturing Purchasing Managers Index (PMI),austrian manufacturing pmi,https://www.investing.com/economic-calendar/austrian-manufacturing-pmi-1544
@@ -922,6 +979,7 @@ ID,Nation,Importance,Title,Name,URL
 1659,United States,1,United States Heating Oil Stockpiles,eia weekly heatoil stock,https://www.investing.com/economic-calendar/eia-weekly-heatoil-stock-1659
 1660,United States,1,United States Distillate Fuel Production,eia weekly distillate fuel production,https://www.investing.com/economic-calendar/eia-weekly-distillate-fuel-production-1660
 1661,United States,1,United States Gasoline Production,eia weekly gasoline production,https://www.investing.com/economic-calendar/eia-weekly-gasoline-production-1661
+1668,Japan,2,Bank of Japan Quarterly Outlook Report,boj outlook report,https://www.investing.com/economic-calendar/boj-outlook-report-1668
 1669,Japan,2,Bank of Japan Monetary Policy Statement,boj monetary policy statement,https://www.investing.com/economic-calendar/boj-monetary-policy-statement-1669
 1673,United States,2,OPEC Monthly Report,opec monthly report,https://www.investing.com/economic-calendar/opec-monthly-report-1673
 1674,United States,2,IEA Monthly Report,iea monthly report,https://www.investing.com/economic-calendar/iea-monthly-report-1674
@@ -936,6 +994,7 @@ ID,Nation,Importance,Title,Name,URL
 1713,Canada,1,Canada Common Consumer Price Index (CPI) YoY,common cpi,https://www.investing.com/economic-calendar/common-cpi-1713
 1714,Canada,1,Canada Median Consumer Price Index (CPI) YoY,median cpi,https://www.investing.com/economic-calendar/median-cpi-1714
 1715,Canada,1,Canada Trimmed Consumer Price Index (CPI) YoY,trimmed cpi,https://www.investing.com/economic-calendar/trimmed-cpi-1715
+1718,United Kingdom,2,Bank of England (BoE) MPC Member Ramsden Speaks,boe mpc member ramsden speaks,https://www.investing.com/economic-calendar/boe-mpc-member-ramsden-speaks-1718
 1720,United Kingdom,2,Bank of England (BoE) MPC Member Tenreyro Speaks,boe mpc member tenreyro speaks,https://www.investing.com/economic-calendar/boe-mpc-member-tenreyro-speaks-1720
 1721,Australia,2,Reserve Bank of Australia (RBA) Assist Gov Bullock Speaks,rba assist gov bullock speaks,https://www.investing.com/economic-calendar/rba-assist-gov-bullock-speaks-1721
 1729,Switzerland,2,Swiss National Bank (SNB) Governor Board Member Maechler Speaks,snb gov board member maechler speaks,https://www.investing.com/economic-calendar/snb-gov-board-member-maechler-speaks-1729
@@ -944,6 +1003,7 @@ ID,Nation,Importance,Title,Name,URL
 1741,Germany,1,German Bundesbank Monthly Report,german buba monthly report,https://www.investing.com/economic-calendar/german-buba-monthly-report-1741
 1743,United Kingdom,2,United Kingdom Employment Change 3M/3M,employment change 3m 3m,https://www.investing.com/economic-calendar/employment-change-3m-3m-1743
 1744,Euro Zone,2,European Marginal Lending Facility Rate,ecb marginal lending facility,https://www.investing.com/economic-calendar/ecb-marginal-lending-facility-1744
+1750,France,2,France Gross Domestic Product (GDP) YoY,french gdp,https://www.investing.com/economic-calendar/french-gdp-1750
 1752,China,2,National Bureau of Statistics of China (NBS) Press Conference,nbs press conference,https://www.investing.com/economic-calendar/nbs-press-conference-1752
 1755,United States,2,United States Industrial Production YoY,industrial production,https://www.investing.com/economic-calendar/industrial-production-1755
 1757,Japan,1,Bank of Japan (BoJ) Summary of Opinions,boj summary of opinions,https://www.investing.com/economic-calendar/boj-summary-of-opinions-1757
@@ -960,6 +1020,7 @@ ID,Nation,Importance,Title,Name,URL
 1800,United Kingdom,2,United Kingdom Monthly Gross Domestic Product (GDP) 3M/3M Change,monthly gdp 3m 3m change,https://www.investing.com/economic-calendar/monthly-gdp-3m-3m-change-1800
 1801,United States,1,United States 8-Week Bill Auction,8 week bill auction,https://www.investing.com/economic-calendar/8-week-bill-auction-1801
 1804,Türkiye,2,Central Bank of the Republic of Turkey (CBRT) Monetary Policy Committee Meeting Minutes,cbrt monetary policy meeting minutes,https://www.investing.com/economic-calendar/cbrt-monetary-policy-meeting-minutes-1804
+1805,Türkiye,2,Central Bank of the Republic of Turkey (CBRT) Inflation Report,cbrt inflation report,https://www.investing.com/economic-calendar/cbrt-inflation-report-1805
 1810,United States,2,United States Baker Hughes Total Rig Count,u.s. baker hughes total rig count,https://www.investing.com/economic-calendar/u.s.-baker-hughes-total-rig-count-1810
 1811,United States,1,CFTC Soybeans speculative net positions,cftc soybeans speculative positions,https://www.investing.com/economic-calendar/cftc-soybeans-speculative-positions-1811
 1812,United States,1,CFTC Wheat speculative net positions,cftc wheat speculative positions,https://www.investing.com/economic-calendar/cftc-wheat-speculative-positions-1812
@@ -975,6 +1036,7 @@ ID,Nation,Importance,Title,Name,URL
 1837,Euro Zone,2,European Central Bank (ECB) Enria Speaks,ecb's enria speaks,https://www.investing.com/economic-calendar/ecb's-enria-speaks-1837
 1838,Australia,1,Australia Manufacturing Purchasing Managers Index (PMI),manufacturing pmi,https://www.investing.com/economic-calendar/manufacturing-pmi-1838
 1839,Australia,1,Australia Services Purchasing Managers Index (PMI),services pmi,https://www.investing.com/economic-calendar/services-pmi-1839
+1843,Euro Zone,1,European Central Bank (ECB) Bank Lending Survey,ecb bank lending survey,https://www.investing.com/economic-calendar/ecb-bank-lending-survey-1843
 1844,Australia,1,Reserve Bank of Australia (RBA) Chart Pack Release,rba chart pack release,https://www.investing.com/economic-calendar/rba-chart-pack-release-1844
 1845,Euro Zone,2,European Central Bank (ECB) Monetary Policy Statement,ecb monetary policy statement,https://www.investing.com/economic-calendar/ecb-monetary-policy-statement-1845
 1847,Türkiye,2,Turkish Retail Sales MoM,turkish retail sales,https://www.investing.com/economic-calendar/turkish-retail-sales-1847
@@ -1009,12 +1071,14 @@ ID,Nation,Importance,Title,Name,URL
 1900,Euro Zone,1,European Harmonised Index of Consumer Prices excluding Energy and Food YoY,hicp ex energy   food,https://www.investing.com/economic-calendar/hicp-ex-energy---food-1900
 1901,Euro Zone,1,European Loans to Non Financial Corporations,non financial corporations loans,https://www.investing.com/economic-calendar/non-financial-corporations-loans-1901
 1903,Euro Zone,1,European Reserve Assets Total,reserve assets total,https://www.investing.com/economic-calendar/reserve-assets-total-1903
+1905,Türkiye,1,Turkey Economic Confidence Index,turkish economic confidence index,https://www.investing.com/economic-calendar/turkish-economic-confidence-index-1905
 1906,Türkiye,1,Turkey Thomson Reuters IPSOS Primary Consumer Sentiment Index (PCSI),turkey thomson reuters ipsos pcsi,https://www.investing.com/economic-calendar/turkey-thomson-reuters-ipsos-pcsi-1906
 1907,Japan,1,Japan M3 Money Supply (In JPY),m3 money supply,https://www.investing.com/economic-calendar/m3-money-supply-1907
 1908,Japan,2,Japan Tokyo Consumer Price Index Excluding Food and Energy,tokyo cpi ex food and energy,https://www.investing.com/economic-calendar/tokyo-cpi-ex-food-and-energy-1908
 1910,Japan,1,Japan Thomson Reuters IPSOS Primary Consumer Sentiment Index,thomson reuters ipsos pcsi,https://www.investing.com/economic-calendar/thomson-reuters-ipsos-pcsi-1910
 1912,Japan,2,Japan Services Purchasing Managers' Index,services pmi,https://www.investing.com/economic-calendar/services-pmi-1912
 1913,China,2,China Composite Purchasing Managers' Index,chinese composite pmi,https://www.investing.com/economic-calendar/chinese-composite-pmi-1913
+1914,China,2,China Gross Domestic Product Year to Date YoY,chinese gdp ytd,https://www.investing.com/economic-calendar/chinese-gdp-ytd-1914
 1915,China,1,China Thomson Reuters IPSOS Primary Consumer Sentiment Index,china thomson reuters ipsos pcsi,https://www.investing.com/economic-calendar/china-thomson-reuters-ipsos-pcsi-1915
 1916,China,2,China Industrial Production Year to Date YoY,chinese industrial production ytd,https://www.investing.com/economic-calendar/chinese-industrial-production-ytd-1916
 1917,China,1,China Industrial profit Year to Date,chinese industrial profit ytd,https://www.investing.com/economic-calendar/chinese-industrial-profit-ytd-1917
@@ -1046,6 +1110,7 @@ ID,Nation,Importance,Title,Name,URL
 1971,Euro Zone,2,European Central Bank (ECB) Lane Speaks,ecb's lane speaks,https://www.investing.com/economic-calendar/ecb's-lane-speaks-1971
 1975,United Kingdom,2,Bank of England (BoE) Governor Bailey Speaks,boe gov bailey speaks,https://www.investing.com/economic-calendar/boe-gov-bailey-speaks-1975
 1976,Euro Zone,2,European Central Bank (ECB) Panetta Speaks,ecb's panetta speaks,https://www.investing.com/economic-calendar/ecb's-panetta-speaks-1976
+1977,Germany,2,German Bundesbank (Buba) Mauderer Speaks,german buba mauderer speaks,https://www.investing.com/economic-calendar/german-buba-mauderer-speaks-1977
 1978,Germany,2,German Bundesbank (Buba) Vice President Buch Speaks,german buba vice president buch speaks,https://www.investing.com/economic-calendar/german-buba-vice-president-buch-speaks-1978
 1982,Euro Zone,2,European Central Bank (ECB) Schnabel Speaks,ecb's schnabel speaks,https://www.investing.com/economic-calendar/ecb's-schnabel-speaks-1982
 1983,United States,2,United States 20-Year Bond Auction,20 year bond auction,https://www.investing.com/economic-calendar/20-year-bond-auction-1983
@@ -1054,6 +1119,7 @@ ID,Nation,Importance,Title,Name,URL
 1994,Euro Zone,2,Member of the Supervisory Board (ECB representative) Elizabeth McCaul Speaks,ecb mccaul speaks,https://www.investing.com/economic-calendar/ecb-mccaul-speaks-1994
 1996,Germany,2,German Bundesbank (Buba) Balz Speaks,german buba balz speaks,https://www.investing.com/economic-calendar/german-buba-balz-speaks-1996
 1997,United States,2,United States Federal Reserve Waller Speaks,fed waller speaks,https://www.investing.com/economic-calendar/fed-waller-speaks-1997
+1998,Euro Zone,2,European Central Bank (ECB) Elderson Speaks,ecb's elderson speaks,https://www.investing.com/economic-calendar/ecb's-elderson-speaks-1998
 2000,South Africa,1,South Africa Manufacturing Production YoY,south african manufacturing production,https://www.investing.com/economic-calendar/south-african-manufacturing-production-2000
 2001,Türkiye,2,Turkey Unemployment Rate,turkish unemployment rate,https://www.investing.com/economic-calendar/turkish-unemployment-rate-2001
 2006,Brazil,2,Brazil IGP-10 Inflation Index MoM,igp 10 inflation index,https://www.investing.com/economic-calendar/igp-10-inflation-index-2006
@@ -1069,6 +1135,8 @@ ID,Nation,Importance,Title,Name,URL
 2030,United States,1,United States Durables Excluding Transport (MoM),durables excluding transport,https://www.investing.com/economic-calendar/durables-excluding-transport-2030
 2041,Mozambique,1,Mozambique Consumer Price Index (CPI) YoY,cpi,https://www.investing.com/economic-calendar/cpi-2041
 2044,Denmark,1,Danish Manufacturing Purchasing Managers Index (PMI),manufacturing pmi,https://www.investing.com/economic-calendar/manufacturing-pmi-2044
+2045,Angola,1,Angola FX Reserve,fx reserve,https://www.investing.com/economic-calendar/fx-reserve-2045
+2046,Malawi,1,Malawi Bank Rate,bank rate,https://www.investing.com/economic-calendar/bank-rate-2046
 2047,Rwanda,1,Rwanda Consumer Price Index (CPI) YoY,cpi,https://www.investing.com/economic-calendar/cpi-2047
 2048,United States,1,United States Producer Price Index (PPI) excluding Food/Energy/Transport YoY,ppi,https://www.investing.com/economic-calendar/ppi-2048
 2049,United States,1,United States Producer Price Index (PPI) excluding Food/Energy/Transport MoM,ppi,https://www.investing.com/economic-calendar/ppi-2049
@@ -1089,13 +1157,18 @@ ID,Nation,Importance,Title,Name,URL
 2067,South Africa,1,South African Thomson Reuters IPSOS Primary Consumer Sentiment Index (PCSI),thomson reuters ipsos pcsi,https://www.investing.com/economic-calendar/thomson-reuters-ipsos-pcsi-2067
 2068,Canada,1,Canadian Thomson Reuters IPSOS Primary Consumer Sentiment Index (PCSI),thomson reuters ipsos pcsi,https://www.investing.com/economic-calendar/thomson-reuters-ipsos-pcsi-2068
 2069,Israel,1,Israel Thomson Reuters IPSOS Primary Consumer Sentiment Index (PCSI),thomson reuters ipsos pcsi,https://www.investing.com/economic-calendar/thomson-reuters-ipsos-pcsi-2069
+2071,Singapore,2,Singaporean Core Consumer Price Index (CPI) YoY,core cpi,https://www.investing.com/economic-calendar/core-cpi-2071
 2072,Ireland,1,Irish Residential Prop Prices YoY,resi prop prices,https://www.investing.com/economic-calendar/resi-prop-prices-2072
 2073,Ireland,1,Irish Residential Prop Prices MoM,resi prop prices,https://www.investing.com/economic-calendar/resi-prop-prices-2073
 2074,Denmark,1,Danish Lending Rate,lending rate,https://www.investing.com/economic-calendar/lending-rate-2074
 2080,Denmark,1,Danish Current Account,current account,https://www.investing.com/economic-calendar/current-account-2080
 2081,Denmark,1,Danish Harmonised Index of Consumer Prices (HICP) YoY,hicp,https://www.investing.com/economic-calendar/hicp-2081
 2083,Denmark,1,Danish Currency Reserves,currency reserves,https://www.investing.com/economic-calendar/currency-reserves-2083
+2085,Ghana,1,Ghana Prime Interest Rate,prime interest rate,https://www.investing.com/economic-calendar/prime-interest-rate-2085
+2098,Bahrain,1,Bahrain Interest rate decision,interest rate decision,https://www.investing.com/economic-calendar/interest-rate-decision-2098
+2099,Kuwait,1,Kuwait Interest rate decision,interest rate decision,https://www.investing.com/economic-calendar/interest-rate-decision-2099
 2104,Hong Kong,1,Hong Kong Interest rate decision,interest rate decision,https://www.investing.com/economic-calendar/interest-rate-decision-2104
+2108,United States,1,Fed Vice Chair for Supervision of the Board of Governors Michael S. Barr Speaks,fed vice chair for supervision barr speaks,https://www.investing.com/economic-calendar/fed-vice-chair-for-supervision-barr-speaks-2108
 2120,United States,1,United States Reserve Balances with Federal Reserve Banks,reserve balances with federal reserve banks,https://www.investing.com/economic-calendar/reserve-balances-with-federal-reserve-banks-2120
 2121,Germany,1,Germany North Rhine Westphalia CPI MoM,north rhine westphalia cpi,https://www.investing.com/economic-calendar/north-rhine-westphalia-cpi-2121
 2122,Germany,1,Germany North Rhine Westphalia CPI YoY,north rhine westphalia cpi,https://www.investing.com/economic-calendar/north-rhine-westphalia-cpi-2122
@@ -1148,7 +1221,11 @@ ID,Nation,Importance,Title,Name,URL
 2193,United Kingdom,1,United Kingdom GDP Estimate,gdp estimate,https://www.investing.com/economic-calendar/gdp-estimate-2193
 2194,Hong Kong,1,Hong Kong CPI NSA,cpi,https://www.investing.com/economic-calendar/cpi-2194
 2198,Japan,1,Japan CPI Tokyo Excl Food & Energy,cpi less food and energy,https://www.investing.com/economic-calendar/cpi-less-food-and-energy-2198
+2201,Malaysia,1,Malaysia CPI NSA,cpi,https://www.investing.com/economic-calendar/cpi-2201
 2202,Netherlands,1,Netherlands CPI NSA,netherlands cpi nsa,https://www.investing.com/economic-calendar/netherlands-cpi-nsa-2202
+2203,Sweden,1,Sweden GDP,gdp,https://www.investing.com/economic-calendar/gdp-2203
+2204,Singapore,1,Singapore CPI NSA,cpi nsa,https://www.investing.com/economic-calendar/cpi-nsa-2204
 2205,Türkiye,1,"Turkey CPI Ex E,F,B,T&G","cpi ex e,f,b,t g","https://www.investing.com/economic-calendar/cpi-ex-e,f,b,t-g-2205"
 2206,Türkiye,1,"Turkey CPI Ex E,F,B,T&G","cpi ex e,f,b,t g","https://www.investing.com/economic-calendar/cpi-ex-e,f,b,t-g-2206"
 2208,Ukraine,1,Ukraine CPI,cpi,https://www.investing.com/economic-calendar/cpi-2208
+2212,Brazil,1,IGP-M Acumulado 12 meses | Tabela Anual,brazilian igp m inflation (yoy),https://www.investing.com/economic-calendar/brazilian-igp-m-inflation-(yoy)-2212
