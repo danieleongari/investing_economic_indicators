@@ -15,7 +15,7 @@ using the follwing protocol:
 - `Save as...` HTML page (try multiple times as the Downloas is often stopped before completion)
 - Rename it by starting weekdate (Sunday) and add it to the `html_calendars` folder
 
-For each indicator the `Title` is parsed from the URL of the indicator page.
+For each indicator other info are parsed from the URL of the indicator page: `Title`, `Source`, `Source_link`, `Currency` and `Description`.
 
 ## Most Important Indicators (three stars)
 1. [United States ADP Nonfarm Employment Change - ID #1](https://www.investing.com/economic-calendar/adp-nonfarm-employment-change-1)
