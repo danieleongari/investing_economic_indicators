@@ -72,4 +72,6 @@ For each indicator other info are parsed from the URL of the indicator page: `Ti
 52. [U.S. Federal Reserve (Fed) Press Conference - ID #1692](https://www.investing.com/economic-calendar/fomc-press-conference-1692)
 53. [United States Federal Reserve Chair Powell Speaks - ID #1738](https://www.investing.com/economic-calendar/fed-chair-powell-speaks-1738)
 54. [United States Federal Reserve Chair Powell Testifies - ID #1739](https://www.investing.com/economic-calendar/fed-chair-powell-testifies-1739)
-55. [United Kingdom Gross Domestic Product (GDP) MoM - ID #1792](https://www.investing.com/economic-calendar/gdp-1792)
+55. [U.K. Spring Forecast Statement - ID #1740](https://www.investing.com/economic-calendar/spring-forecast-statement-1740)
+56. [United Kingdom Gross Domestic Product (GDP) MoM - ID #1792](https://www.investing.com/economic-calendar/gdp-1792)
+57. [United States President Biden Speaks - ID #1993](https://www.investing.com/economic-calendar/u.s.-president-biden-speaks-1993)
